@@ -2,3 +2,4 @@ Gitの練習をしていきます。
 ・gid ann
 ・gid commit
 ・git remove
+・git status
